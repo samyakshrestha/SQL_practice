@@ -1,6 +1,6 @@
 -- Query to retrieve the first name, last name, and film title
 -- of films featuring the actor 'Nick Wahlberg'
--- This task requires joing three tables
+-- This task requires joining three tables
 SELECT 
     actor.first_name, 
     actor.last_name, 
